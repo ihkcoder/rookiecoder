@@ -14,11 +14,11 @@ string = f"Merhabalar {isim}"
 print(string)
 
 Out
-Merhabalar Omer
+Merhabalar İsmail
 
 DİKKAT: f-string yapısı Python 3.6 sürümü ile birlikte eklendi. 
 """
-# - Girilen üç sayının büyüklük olarak karşılaştırınız.
+# (Soru) Girilen üç sayıyı büyüklük olarak karşılaştırınız.
 
 sayi1  = int(input("1.Sayıyı gir : "))
 
