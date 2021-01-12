@@ -1,7 +1,9 @@
 """
 1-Kullanıcadan 2 vize (½60) ve final (½40) notunu alıp ortalama hesaplayınız
-       Eğer ortalama 50 ve üstündeyse geçti değilse kaldı yazdırın.
+  Eğer ortalama 50 ve üstündeyse geçti değilse kaldı yazdırın.
+       
        a-) Ortalama 50 olsa bilde final notu en az 50 olmalıdır
+       
        b-) Finalden 70 alındığında ortalamanın öenmi olmasın.
 """
 
@@ -25,7 +27,9 @@ elif (final < 50):
 
 """
 2-  Kişinin ad, kilo, ve boy bilgilerini alıp kilo indekslerini hesaplayınız.
-     Formül: (Kilo / boy uzunluğunun karesi)
+     
+     Formül: (Kilo / boy uzunluğunun karesi) 
+     
      Aşağıdaki tabloya göre kişi hangi gruba girmektedir.
      0-18.4      => Zayıf
      18.5-24.9   => Normal
